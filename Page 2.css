@@ -1,0 +1,32 @@
+body{
+    background-color: rebeccapurple;
+}
+
+header{
+    padding: 70px;
+    text-align: center;
+    background: blanchedalmond;
+    color: mediumvioletred;
+    font-size: 30px;
+}
+
+p{
+    padding: 10px;
+    text-align: relative;
+    color: whitesmoke;
+    font-size: 20px;
+}
+
+nav {
+    background-color: cornflowerblue;
+    list-style-type: none;
+    text-align: center;
+    padding: 2px;
+    margin: 0;
+}
+
+nav li {
+    display: inline-block;
+    font-size: 25px;
+    padding: 20px;
+}
